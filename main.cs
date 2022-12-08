@@ -25,10 +25,10 @@ class Program
 
         Console.WriteLine(" ");
 
-        for (int counter = 0; counter < userNumber; counter++) 
+        for(int counter = 0; counter < userNumber; counter++)
         {
-        sum = sum + add;
-        add = add + 1;
+            sum = sum + add;
+            add = add + 1;
         }
         Console.WriteLine(" ");
         Console.WriteLine("The sum is: " + sum);
