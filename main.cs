@@ -32,6 +32,6 @@ class Program
         }
         Console.WriteLine(" ");
         Console.WriteLine("The sum is: " + sum);
-        Console.WriteLine("\nDone.");
+        Console.WriteLine("\nDone.")
     }
 }
